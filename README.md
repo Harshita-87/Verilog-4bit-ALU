@@ -43,6 +43,10 @@ The design performs basic arithmetic and logical operations and generates standa
 │── tb/ALU_tb.v
 └── README.md
 ```
+## Simulation Waveform
+
+![Waveform](docs/waveform.png)
+
 ## Tools Used
 
 * Verilog HDL
